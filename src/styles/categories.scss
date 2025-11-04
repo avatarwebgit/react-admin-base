@@ -1,0 +1,24 @@
+.categories {
+}
+.category-main-container {
+ .btn {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+
+  i {
+   width: 20px;
+   height: 20px;
+   color: #fff;
+  }
+ }
+ .action-span {
+  //   min-width: 180px !important;
+ }
+
+
+}
+ td {
+  text-align: center;
+ }
